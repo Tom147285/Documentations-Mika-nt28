@@ -11,19 +11,19 @@ pluginId: Freebox_OS
 
 > Il est nécessaire de refaire l'appairage de la Freebox avec le nouveau menu
 
-- Amélioration des messages d'erreur (en cas d'erreur, un message est indiqué dans le centre des messages)
-- Suppression des widgets ne servant plus
+- Amélioration des messages d'erreurs (en cas d'erreur, un message est indiqué dans le centre des messages)
+- Suppression des widgets ne servants plus
 - Correction des bugs sur la commande rafraîchir sur certains équipements
 - **Appairage**
   - Mise en place d'une modale pour faciliter l'appairage
     > Le menu se trouve maintenant dans l'interface du plugin
   - Modification des réglages par défauts, (masquages des paramètres non nécessaires)
-  - Ajout fonction pour contrôler les droits, si non OK il n'est pas possible de continuer (Droits obligatoires en gras)
+  - Ajout d'une fonction pour contrôler les droits, si NOK il n'est pas possible de continuer (Droits obligatoires en gras)
   - Pour la Freebox Delta : Il est possible de lier les pièces de la Freebox avec les objects de Jeedom
   - Possibilité de lancer des divers équipements en fin d'authentification
 - **Téléphone**
   - Suppression de l'ensemble des commandes obsolètes
-    > Les commandes seront supprimées lors de la mise à jour du Plugin
+    > Les commandes seront supprimées lors de la mise à jour du plugin
   - Suppression des widgets
   - Résolution du retour à la ligne sur l'affichage des listes d'appels
 - **Appareils connectés**
